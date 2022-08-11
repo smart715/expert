@@ -5,15 +5,6 @@
  - Gmail : smartmanage715@gmail.com
  - Skype : https://join.skype.com/invite/vNeE45Svtd9P
 
-### Through 8 years of WEB and Hybrid Mobile Development
-#### 💫 ABOUT ME
-- 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
-- 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
-- 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
-- 😃 Have a Project in your Mind?
-- ✨ I will implement your great ideas to be live perfectly.
-- 📫 Contact me if you need my help.
-
 <div align="center">
     <a href="mailto:smartmanage715@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/google-%2300acee.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google">
@@ -28,6 +19,14 @@
         <img src="https://img.shields.io/badge/whatsapp-%989E87FB.svg?&amp;style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="whatsapp">
     </a>
 </div>
+#### 💫 ABOUT ME
+- 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
+- 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
+- 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
+- 😃 Have a Project in your Mind?
+- ✨ I will implement your great ideas to be live perfectly.
+- 📫 Contact me if you need my help.
+
 
 #### MY STACKS
 
